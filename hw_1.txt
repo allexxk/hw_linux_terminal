@@ -29,7 +29,7 @@ Linux terminal (GitBash) commands
 
 14) скопировать любые 2 файла, которые вы создали, в любую другую папку: cp filename_1 filename_2 /diskname/foldername/
 
-15) Найти файл по имени: find -name filename
+15) Найти файл по имени: find . -name filename
 
 16) просмотреть содержимое в реальном времени (команда grep) изучите как она работает: tail -f failname
 
